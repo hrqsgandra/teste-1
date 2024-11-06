@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalho de História</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        Trabalho de História
+    </header>
+
+    <main class="container">
+        <div class="titulo-trabalho">
+            A escravidão no Brasil
+        </div>
+    
+        <div class="resumo-video">
+            <div class="resumo-texto">
+                A escravidão no Brasil foi uma das práticas mais marcantes da colonização portuguesa, perdurando por mais de 300 anos. Esse sistema cruel trouxe milhões de africanos para trabalharem de forma forçada nas plantações de açúcar, café e minas, construindo uma sociedade marcada pela exploração e opressão. Em 1888, com a assinatura da Lei Áurea, a escravidão foi oficialmente abolida, embora suas consequências ainda sejam visíveis na sociedade brasileira. Este trabalho explora as origens, o cotidiano e o legado dessa prática.
+            </div>
+    
+            <div class="video-wrapper">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Sm7OvC2q_WM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <div class="texto-completo">
+          <img src="banner.jpg" alt="Banner do Trabalho de História" class="img-fluid">
+          <p>A história da escravidão no Brasil é vasta e cheia de complexidades. Desde o início da colonização, milhões de africanos foram trazidos ao país para trabalhar forçadamente, sendo tratados como mercadorias. No Brasil colonial, a escravidão era a base da economia, principalmente nas plantações de açúcar no Nordeste. Com o tempo, essa prática se expandiu para outras regiões e atividades, como a mineração de ouro e a produção de café. A abolição da escravidão em 1888 foi uma conquista histórica, mas não resultou na imediata integração dos ex-escravos à sociedade brasileira. A marginalização continuou, e as marcas da escravidão ainda são evidentes nas desigualdades sociais, raciais e econômicas do Brasil atual.</p>
+        </div>
+    </main>    
+
+    <footer class="footer">
+        <div class="container">
+            <p>Criado por: NOME DO ALUNO - TURMA ADM58</p>
+            <p>Disciplina: Tecnologia e Robótica - Prof. Paulo</p>
+        </div>
+    </footer>
+</body>
+</html>
